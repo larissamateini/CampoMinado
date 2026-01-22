@@ -1,0 +1,15 @@
+# Compilados
+*.class
+
+# Pastas de build
+/build/
+/dist/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Logs
+*.log
